@@ -1,5 +1,6 @@
 # Exclude personal code folders: 
-exclude: [./template-files]
+exclude: 
+  - ./template-files
 
 # -----------------------------------------------------------------------------
 # Site settings
