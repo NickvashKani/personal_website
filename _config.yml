@@ -1,6 +1,6 @@
 # Exclude personal code folders: 
 exclude: 
-  - ./template-files/
+  - template-files/
 
 # -----------------------------------------------------------------------------
 # Site settings
